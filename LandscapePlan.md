@@ -1,8 +1,8 @@
 # Final Project Plan: Foundation Drainage, Retaining Wall, and Landscape
 
 * **Location:** Sioux Falls, SD
-* **Date:** June 9, 2025
-* **Primary Goal:** To resolve a negative grade by installing a new drainage system and a 90-foot retaining wall. The definitive design features a **wall with a perfectly level top**, resulting in a variable physical height. Surplus soil will be repurposed to create a backyard sledding hill.
+* **Date:** June 10, 2025
+* **Primary Goal:** To resolve a negative grade by installing a new drainage system and a 90-foot retaining wall. The definitive design features a **wall with a perfectly level top**, resulting in a variable physical height to match the new landscape grade. Surplus soil will be repurposed to create a backyard sledding hill.
 
 ---
 
@@ -33,8 +33,10 @@
     * One sheet of Rigid Foam Insulation Board (XPS).
 
 ### From a Local Sioux Falls Landscape Supplier
+* **Wall Base Material:** `~3.5 tons` of Paver Base / Class 5 Gravel.
 * **Drainage Gravel:** `~7.5 tons` of 1.5-inch clean drainage rock.
 * **Decorative Top Rock:** `~1 ton` of your chosen rock for the new 82 sq. ft. area.
+* **Topsoil:** None needed (reusing existing pile).
 
 ### From a Hardware/Plumbing Store
 * **French Drain Pipe:** `90 feet` of 4-inch perforated corrugated pipe.
@@ -47,7 +49,6 @@
 * **Grass Seed:** `~8 lbs` of a high-traffic/sports turf mix (Kentucky Bluegrass/Tall Fescue).
 * **Erosion Control Blankets:** `~800 sq. ft.` of biodegradable jute or straw netting.
 * **Landscape Staples:** Pack of 100-200.
-* **Optional:** A few bags of compost to amend your reused topsoil.
 
 ---
 
@@ -55,17 +56,18 @@
 
 This budget reflects the user performing all manual rock moving and opting for a **full-day mini-excavator rental** for first-time operator safety margin.
 
-| Item Category              | Quantity / Size       | Final Estimated Cost |
-| :------------------------- | :-------------------- | :------------------- |
+| Item Category | Quantity / Size | **Final Estimated Cost** |
+| :--- | :--- | :--- |
 | **Retaining Wall Blocks** | **615 blocks** | **$1,316** |
-| **Capstone Blocks** | ~70 caps              | **~$350 - $450** |
-| **Materials (Drainage)** | For 90' trench        | **$730 - $1,100** |
-| **Pipe Crossing Solution** | (Heated Siphon)       | **$120 - $180** |
-| **Additional Decorative Rock**| 1 Ton                 | **$60 - $100** |
-| **Equipment Rental** | (Full Day Set)        | **$695** |
-| **Sledding Hill Materials** |                         | **$180 - $200** |
-| **Contingency Fund (10%)** |                         | **$345 - $490** |
-| **PROJECT GRAND TOTAL** |                         | **$3,800 - $4,781** |
+| **Capstone Blocks** | ~70 caps | **~$350 - $450** |
+| **NEW: Wall Base Material** | **~3.5 Tons** | **~$140 - $210** |
+| **Materials (Drainage)** | For 90' trench | **$730 - $1,100** |
+| **Pipe Crossing Solution** | (Heated Siphon) | **$120 - $180** |
+| **Additional Decorative Rock**| 1 Ton | **$60 - $100** |
+| **Equipment Rental** | (Full Day Set) | **$695** |
+| **Sledding Hill Materials**| | **$180 - $200** |
+| **Contingency Fund (10%)**| | **$360 - $510** |
+| **PROJECT GRAND TOTAL** | | **$3,951 - $5,411** |
 
 ---
 
